@@ -13,7 +13,7 @@
 
 ## Description
 
-_This app helps for easy pet adoption processes_
+_This website helps to deal with the repercussions of pet overpopulation.And although they do not treat or stop the problem of unwanted pets,they do help to decrease the spread of disease as well as the risk of injuries such as bites or scratches from these stray animals,living on the edge of survival_
 
 ## Setup/Installation Requirements
 
