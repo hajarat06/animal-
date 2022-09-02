@@ -27,7 +27,7 @@ _This website helps to deal with the repercussions of pet overpopulation.And alt
 ## Known Bugs
 
 * _None_
-
+* copywrite(c)2022 hajaratnoiki
 
 ## License
 
