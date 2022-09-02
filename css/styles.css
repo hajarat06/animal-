@@ -96,7 +96,7 @@ body {
     height: 370px;
 }
 #bat{
-    margin-left: 450px;
+    margin-left: 350px;
     margin-top: 50px;
    color: #1eb9bb; 
    font-size: 25px;
@@ -106,13 +106,13 @@ body {
 #park{
     width: 100px;
     height: 60px;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: 50px;
 }
 #pat{
     font-size: 14px;
     color: #5a6a71;
-    margin-left: 200px;
+    margin-left: 150px;
 }
 .coil{
 font-size: 20px;
@@ -126,25 +126,25 @@ color: #a364a5;
 #time{
     width: 100px;
     height: 60px;
-    margin-left: 500px;
+    margin-left: 450px;
     margin-top: -430px;
 }
 #rot{
     font-size: 14px;
     color: #5a6a71;
-    margin-left: 500px;
+    margin-left: 450px;
     margin-top: -180px;
 }
 #next{
     width: 100px;
     height: 60px;
-    margin-left: 800px;
+    margin-left: 750px;
     margin-top: -430px;
 }
 #met{
     font-size: 14px;
     color: #5a6a71;
-    margin-left: 800px;
+    margin-left: 750px;
     margin-top: -180px;
 }
 #pic{
@@ -288,7 +288,7 @@ color: #666666;
 #one{
     height: 150px;
     width: 200px;
-    margin-left: 550px;
+    margin-left: 450px;
     margin-top: 100px;
 }
 #map{
@@ -300,7 +300,7 @@ color: #666666;
 #tone{
     height: 150px;
     width: 200px;
-    margin-left: 550px;
+    margin-left: 450px;
     margin-top: 100px;
 }
 #pap{
