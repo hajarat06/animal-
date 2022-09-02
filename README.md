@@ -2,7 +2,7 @@
 
 #### _For pet adoption_
 
-#### By _**Hjarat Ogunnoiki**_
+#### By _**Hajarat Ogunnoiki**_
 
 ## Technologies Used
 
